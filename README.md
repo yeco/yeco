@@ -1,4 +1,4 @@
-# laurensortiz
+# Yeco
 
 > Jasson Cascante (Yëco)
 
@@ -13,7 +13,7 @@ npm install yeco
 As a JSON object.
 
 ```js
-console.log(require('laurensortiz'));
+console.log(require('yeco'));
 ```
 
 # credits
